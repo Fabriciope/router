@@ -1,0 +1,5 @@
+docker-compose.yml
+Dockerfile
+.php-cs-fixer.cache
+composer.lock
+/vendor/
